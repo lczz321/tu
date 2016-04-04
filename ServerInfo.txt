@@ -2,38 +2,29 @@ $BEGIN
 <?xml version="1.0" encoding="GB2312"?>
 <XMLSetup>
   <ServerList>
-    <Group Name="DTy+T+09QRhBTByyYmFk91IY4y">
-      <Server Name="eHiG39EXE3S-Fr8CJKiMN1RAdi">
-        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Es9XrHTGuUaWo5h1h6OshtJdmy</Child>
-      </Server>
-      <Server Name="cyjL+6dZP7yiUIW8EhGyCqqegy">
-        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Es9XrHTGuUaWo5h1h6OshtJdmy</Child>
-      </Server>
-      <Server Name="aLtnKGTaiEixpZYixNl-mbhQPa">
-        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Es9XrHTGuUaWo5h1h6OshtJdmy</Child>
+    <Group Name="b1SchgRWIk8s5e4Ssq">
+      <Server Name="UiwXinRatvZ1CPRE5lFSsBUxID3NREziPi">
+        <Child Addrs="b7X39Y3KJuRQRtl+Wa" Port="AANsJAna1NzSyrkcTi">b7X39Y3KJuRQRtl+Wa</Child>
       </Server>
     </Group>
   </ServerList>
   <Url>
-    <Loginframe></Loginframe>
-    <ContactGM></ContactGM>
-    <Payment></Payment>
-    <Register/>
-    <ChangePass/>
-    <LostPass/>
-    <Payment2></Payment2>
-    <Home></Home>
-    <ExitUrl></ExitUrl>
+    <Loginframe>a0wTziWdDLtUkpkBXQTKXklumlYIPklgOxmsQHiLXsynzm+1zVo</Loginframe>
+    <ContactGM>w+KHUUAHC8RtDcQ=EGSxe9X+G2uD2C7=Ty</ContactGM>
+    <Payment>w+KHUUAHC8RtDcQ=EGSxe9X+G2uD2C7=Ty</Payment>
+    <Payment2>w+KHUUAHC8RtDcQ=EGSxe9X+G2uD2C7=Ty</Payment2>
+    <Home>w+KHUUAHC8RtDcQ=EGSxe9X+G2uD2C7=Ty</Home>
   </Url>
-  <UpDate/>
-  <ServerConfig>
-    <Sever1>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever1>
-    <Sever2>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever2>
-    <Sever3>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever3>
-    <Sever4>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever4>
-    <Severz></Severz>
-    <GameName>bTQTLCPKB6CYoySZu98BgtcRty</GameName>
-    <ClientCount>nhpsXcKpYRBpGWlzVxQnjL32</ClientCount>
-  </ServerConfig>
+  <UpDate>
+    <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="bWpnrhDc9IPp4tYiwa" DUrl="bZWOSuBeTz+Tf=J3Dk9sm6E2JtXwFOPIgNVSKi+=bw+BX=HPjxEIkpLxyBollYCkAjxCrCC2=9434LlBSEwb" ZIP="1" Check="3" DType="0" Date="20050505" VAR="1" MD5="51633fc61957168e9c2325f07047d196" ID="00d18acbc45f99a16bb46107b4879e17">bWpnrhDc9IPp4tYiwa</Config>
+    <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="A=onD+APhyepjyRh8i" DUrl="bZWOSuBeTz+Tf=J3Dk9sm6E2JtXwFOPIgNVSKi+=bw+BX=HPjxEs=chjz1Zjavb9CR21rCC2=9434LlBSEwb" ZIP="1" Check="3" DType="0" Date="20050505" VAR="1" MD5="d2f0fc2bfc10f7746396085f43c868e0" ID="bb0df62d518e36986a56e2787dad291b">A=onD+APhyepjyRh8i</Config>
+    <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="amMcrrk5aE6Wph98Ra" DUrl="bZWOSuBeTz+Tf=J3Dk9sm6E2JtXwFOPIgNVSKi+=bw+BX=HPjxEDFqLyKVija4f+94DCrCC2=9434LlBSEwb" ZIP="1" Check="3" DType="0" Date="20050505" VAR="1" MD5="6be953348d2039a0558e6ddee6c6c51a" ID="859a578d550844c887dda32c73fb707b">amMcrrk5aE6Wph98Ra</Config>
+    <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="+SVbbnwCfMfVsRab" DUrl="bZWOSuBeTz+Tf=J3Dk9sm6E2JtXwFOPIgNVSKi+=bw+BX=HPjxfdOHA5oq4IH68EjYx1rCC2=9434LlBSEwb" ZIP="1" Check="3" DType="0" Date="20050505" VAR="1" MD5="cf4948a823909b83f299848db8afc06b" ID="51b3f97cad3113f02ce8f44fb2580615">+SVbbnwCfMfVsRab</Config>
+    <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="bfPSL+qSDjCGNgcsCi" DUrl="bZWOSuBeTz+Tf=J3Dk9sm6E2JtXwFOPIgNVSKi+=bw+BX=HPjxE4AuYDr13+BNaeMg8SrCC2=9434LlBSEwb" ZIP="1" Check="3" DType="0" Date="20050505" VAR="1" MD5="a23a9285b35fa057938de2f817d39feb" ID="a3e68116d2ddebb22e4313c795bf30f7">bfPSL+qSDjCGNgcsCi</Config>
+    <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="gfLnAgY5bEFDr5Z05JnE2DWgwuGEBHX2rq" DUrl="bZWOSuBeTz+Tf=J3Dk9sm6E2JtXwFOPIgNVSKi+=bw+BX=HPjxfg9d=TrB1Yg1K5c0ZSrCC2=9434LlBSEwb" ZIP="1" Check="3" DType="0" Date="20050505" VAR="1" MD5="6b8b38a870a4ef411d0788b2c084d62e" ID="2029b8a65e60065e9f07fb04c4ae75e6">gfLnAgY5bEFDr5Z05JnE2DWgwuGEBHX2rq</Config>
+    <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="AfypN2uIQwUPlDjVva" DUrl="bZWOSuBeTz+Tf=J3Dk9sm6E2JtXwFOPIgNVSKi+=bw+BX=HPjxfL8I81o0HC00jR+VPKrCC2=9434LlBSEwb" ZIP="1" Check="3" DType="0" Date="20050505" VAR="1" MD5="dde6b7766a8b834ef84c3fa5fdaec3ee" ID="db1cc1985f76d1c3fa1b76aa75c06695">AfypN2uIQwUPlDjVva</Config>
+    <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="bHH5dbXYOJhU5NsqVq" DUrl="bZWOSuBeTz+Tf=J3Dk9sm6E2JtXwFOPIgNVSKi+=bw+BX=HPjxfJAqzmIOKr5RD46CI1rCC2=9434LlBSEwb" ZIP="1" Check="3" DType="0" Date="20050505" VAR="1" MD5="0a9cfb28f7b1a44f8156ade64c820305" ID="ca932f427648e9e6152ad41171b804de">bHH5dbXYOJhU5NsqVq</Config>
+    <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="Acc5FKJgDqDH2MCtHq" DUrl="bZWOSuBeTz+Tf=J3Dk9sm6E2JtXwFOPIgNVSKi+=bw+BX=HPjxfIOsb+6TDZWZ4GtxWSrCC2=9434LlBSEwb" ZIP="2" Check="3" DType="0" Date="20050505" VAR="1" MD5="df741c6cf830ad1893b6bceef23c1ced" ID="be19b76326fb6528ad712c37953c9b08">Acc5FKJgDqDH2MCtHq</Config>
+  </UpDate>
 </XMLSetup>
 $END
