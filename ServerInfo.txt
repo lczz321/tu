@@ -1,0 +1,33 @@
+$BEGIN
+<?xml version="1.0" encoding="GB2312"?>
+<XMLSetup>
+  <ServerList>
+    <Group Name="DTy+T+09QRhBTByyYmFk91IY4y">
+      <Server Name="eHiG39EXE3S-Fr8CJKiMN1RAdi">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Es9XrHTGuUaWo5h1h6OshtJdmy</Child>
+      </Server>
+    </Group>
+  </ServerList>
+  <Url>
+    <Loginframe></Loginframe>
+    <ContactGM></ContactGM>
+    <Payment></Payment>
+    <Register/>
+    <ChangePass/>
+    <LostPass/>
+    <Payment2></Payment2>
+    <Home></Home>
+    <ExitUrl></ExitUrl>
+  </Url>
+  <UpDate/>
+  <ServerConfig>
+    <Sever1>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever1>
+    <Sever2>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever2>
+    <Sever3>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever3>
+    <Sever4>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever4>
+    <Severz></Severz>
+    <GameName>bTQTLCPKB6CYoySZu98BgtcRty</GameName>
+    <ClientCount>nhpsXcKpYRBpGWlzVxQnjL32</ClientCount>
+  </ServerConfig>
+</XMLSetup>
+$END
