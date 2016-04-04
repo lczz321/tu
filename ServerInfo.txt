@@ -6,6 +6,12 @@ $BEGIN
       <Server Name="eHiG39EXE3S-Fr8CJKiMN1RAdi">
         <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Es9XrHTGuUaWo5h1h6OshtJdmy</Child>
       </Server>
+      <Server Name="cyjL+6dZP7yiUIW8EhGyCqqegy">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Es9XrHTGuUaWo5h1h6OshtJdmy</Child>
+      </Server>
+      <Server Name="aLtnKGTaiEixpZYixNl-mbhQPa">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Es9XrHTGuUaWo5h1h6OshtJdmy</Child>
+      </Server>
     </Group>
   </ServerList>
   <Url>
