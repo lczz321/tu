@@ -44,12 +44,12 @@ $BEGIN
     <Config SDir="khy+TG+lRtprFl52EnIrtcqJgmKqjAuhoa" FName="amMcrrk5aE6Wph98Ra" DUrl="b7ugljkNCrDYkqHLG0LsXrXe2YwE52MkbBBnMqjKtY8Aj50IbKo" ZIP="1" Check="3" DType="0" Date="20050505" VAR="1" MD5="903f0cee53f437e7d6c698551b50e408" ID="2d0527ede2855927949608f737d9d8a1">AG4XeT9hHZ4+Ea0w6i</Config>
   </UpDate>
   <ServerConfig>
-    <Sever1>oAvS4JoTYkI0rTuLx5hHukXn8elxiiXoP0MHZ1+Z9DbiEhBYthNIiTDvaoc7QN5sMWg</Sever1>
+    <Sever1>rDmxeaT70gfBk1xmfGYlwpNFRQXoXxyZnN1hGVE8bO99ITOFZYNIiTDvaoc7QN5sMWg</Sever1>
     <Sever2>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever2>
     <Sever3>b7ugljkNCrDYkqHLG0MR9+i6aVis7d+CXFNIiTDvaoc7QN5sMWg</Sever3>
-    <Sever4>oAvS4JoTYkI0rTuLx5hHukXn8elxiiXoP0MHZ1+Z9DbiEhBYthNIiTDvaoc7QN5sMWg</Sever4>
-    <Severz>Nf2gE-rMm8QaEqZBr1gVGe0122hsyeSEqiCmzbP6gNWB6AeSdzjrxWiPDkBE5X8umes</Severz>
-    <GameName>bKrf-1UWfEl6E67O0a</GameName>
+    <Sever4>rDmxeaT70gfBk1xmfGYlwpNFRQXoXxyZnN1hGVE8bO99ITOFZYNIiTDvaoc7QN5sMWg</Sever4>
+    <Severz>pMmNy3oc5yATOpMCkOncYg8BkzC-LncT-TazMYNujYnm1vsTkRDu8Oy+8DzzJPnr2Bk</Severz>
+    <GameName>bGDynsWKMFbu6S7WUi</GameName>
     <ClientCount>CJpAI9Jc13X8Xly4</ClientCount>
   </ServerConfig>
 </XMLSetup>
